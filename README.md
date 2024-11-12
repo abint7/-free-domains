@@ -13,6 +13,7 @@ A collective list of free subdomains for use on personal sites, open source proj
 <!-- START LIST -->
  | Domain | About | Repository | Current status | 
  |--------|-------|------------|----------------|
+ | [ainx.eu](https://ainx.eu/) | Explore the world of possibilities as you register your very own .ainx.eu domain for free. Take control of your digital identity by effortlessly managing DNS entries, ensuring your online space reflects your unique vision. Elevate your web experience with AINX.EU - where domain registration meets user-friendly DNS management. Your journey to a personalized online presence starts here!| | ✅ |
  | [is-an.app](https://is-an.app/) |  Are you a developer exploring an awesome domain name for your application, personal website, or project? You came to the right place! This service offers a handy subdomain service for you to have a subdomain via CNAME, A, AAAA, or NS DNS records. In limited cases, you can use a wildcard subdomain.  | [tarampampam/free-domains](https://github.com/tarampampam/free-domains) | ✅  |
  | [cluster.ws](https://cluster.ws/) & [wip.la](https://wip.la/) | For IT enthusiasts who need a temporary domain name or those who can't or don't want to pay for a top level domain | [Olivr/free-domain](https://github.com/Olivr/free-domain) | ✅ |
  | [thedev.id](https://thedev.id/) | An identity for developers on the web. | [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) | ✅ |
